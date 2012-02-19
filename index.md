@@ -1,45 +1,47 @@
 ---
 layout: page
-title: Hello World!
+title: Python Around The Globe!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## 24 months, 8 countries, 1 common language: Python
 
-## Update Author Attributes
+A crazy project.
+Every 3 months, starting again in a new country, new collegues, new company and new projects.
+Get and share international experiences, learn different way of working, other processes, new methodologies and cultures.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+Promote python in the world and emerging country embracing new technologies.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+Want to be part?
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+## A project is born
 
-    $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+I am a french django developer living in London now.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Few months ago, I was depressed being a well paid consultant working in financial institution. He took me 4 years to notice I was not made to work for money but for passion.
 
-## To-Do
+Does that exist, people working for passion?
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+As a passionate django developer for 4 years now, stubbing websites, creating new personnal projects, programming on a weekly basis outside work, I may try to find a job where people will pay for me to do that, on a daily basis.
+
+Direction the best place for a django job in Europe: London.
+
+What a city. So many stuff to do, so many different cultures, we do love it.
+
+Then, why do you want to live if you love it? If the first city is that cool, there should be plenty of other as cool. 
+
+We want to see them all, from inside, as an inhabitant, as a worker.
+
+Berlin, Barcelone, New York, Vancouver, Melbourne, Taiwan, Tokyo, Rome... All of them
+
+Well, all is a lot! What about once every 2 months? Short. Every 6 months? Long. 3 months? GO.
+
+How long? 24 months then 8 countries. GO.
+
+For what to do? Mainly Python and/or Django. But not only. I am passionate about python, not extrimist.
+
+24 months, 8 countries, 1 language. A project is born.
 
 
