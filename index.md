@@ -4,9 +4,11 @@ title: Python Around The Globe!
 ---
 {% include JB/setup %}
 
-**For the_impatient:**
+**For the_impatient:*`
+
   Work in a different country every 3 months with the best python/django developer around the world as a [ put here whichever contract type would suit you best ] for a [ put the average rate in your country].
   Project start after the DjangoCon Europe
+
 **Endfor**
 
 - Monday,  16th july **2007**: First work day of my life
