@@ -4,44 +4,47 @@ title: Python Around The Globe!
 ---
 {% include JB/setup %}
 
+*For the_impatient:*
+  Work in a different country every 3 months with the best python/django developer around the world as a [ put here whichever contract type would suit you best ] for a [ put the average rate in your country].
+  Project start after the DjangoCon Europe
+*Endfor*
 
-## 24 months, 8 countries, 1 common language: Python
+- Monday,  16th july *2007*: First work day of my life
+- Wednesday,  10th july *2008*: Year 1. Bored
+- Monday,  11th april *2011*: 269 days past year 3. Still bored. I have to change.
 
-A crazy project.
-Every 3 months, starting again in a new country, new collegues, new company and new projects.
-Get and share international experiences, learn different way of working, other processes, new methodologies and cultures.
+My job was not uninteresting. As any jobs, there is still tons of challenges to be achieved. My concern was quality. How to bring more quality in all processes I was involved in. I get some strong successes and some deep failures.
 
-Promote python in the world and emerging country embracing new technologies.
+meanwhile in another life...
 
-Want to be part?
+I was practising programming for my own projects and became a python addict.
 
-## A project is born
+The gap between what you may achieve at home and all the efforts you have to do to achieve a simple task at work was deeply growing.
 
+Two main reasons: Technologies and processes.
 
-I am a french django developer living in London now.
+Heavy processes with unsuitable technologies lead to a slow velocity. Doing same tasks again and again, patching same issues, again and again.
 
-Few months ago, I was depressed being a well paid consultant working in financial institution. He took me 4 years to notice I was not made to work for money but for passion.
+End of the money driven experience : September 2011
 
-Does that exist, people working for passion?
+From passion to Passion
 
-As a passionate django developer for 4 years now, stubbing websites, creating new personnal projects, programming on a weekly basis outside work, I may try to find a job where people will pay for me to do that, on a daily basis.
+Being unable to find any python jobs in Luxembourg, I started to look after relocation. After having performed a huge market study on where to find python/django devs around the world (Thanks to Djangogigs), my girlfriend and I decided to move in the UK *.
 
-Direction the best place for a django job in Europe: London.
+I have been welcomed by TangentLabs, where I grew from passionate programmer to professional programmer. You know what, I do like it. Happy to have done the right choice.
 
-What a city. So many stuff to do, so many different cultures, we do love it.
+My concern was still quality and I enjoyed the fact all my team embraced the comeback to TDD which had just been forgot for a few months. My project contained around 30 tests when I joined and is now 270 tests exactly.
 
-Then, why do you want to live if you love it? If the first city is that cool, there should be plenty of other as cool. 
+I did learn a lot from all my colleagues but I now reached the zone of comfort. Time to live again.
 
-We want to see them all, from inside, as an inhabitant, as a worker.
+Are you the next? 
 
-Berlin, Barcelone, New York, Vancouver, Melbourne, Taiwan, Tokyo, Rome... All of them
+The project took a crazy shape. We like to travel and I like python/django. Let’s do both!
+Like a initiatory travel, meeting plenty of new peoples, sharing knowledge, learning new tools, new techs. Only two rules: using python and moving to a different country each time. Doing that again, and again. Every 3 months. For 24 months ie:
 
-Well, all is a lot! What about once every 2 months? Short. Every 6 months? Long. 3 months? GO.
+24 months - 8 countries - 1 language
 
-How long? 24 months then 8 countries. GO.
-
-For what to do? Mainly Python and/or Django. But not only. I am passionate about python, not extrimist.
-
-24 months, 8 countries, 1 language. A project is born.
+Are you next ?
 
 
+* UK was the second choice after the US, for sure, but it really seems than US government doesn’t want us. Next step maybe.
