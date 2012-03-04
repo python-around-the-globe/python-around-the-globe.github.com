@@ -52,3 +52,13 @@ Are you next ?
 
 
 \* UK was the second choice after the US, for sure, but it really seems than US government doesn’t want us. Next step maybe.
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<g:plusone annotation="inline"></g:plusone>
