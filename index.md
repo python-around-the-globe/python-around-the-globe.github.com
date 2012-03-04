@@ -4,12 +4,14 @@ title: Python Around The Globe!
 ---
 {% include JB/setup %}
 
-**For the_impatient:*`
+**For the_impatient:**
 
   Work in a different country every 3 months with the best python/django developer around the world as a [ put here whichever contract type would suit you best ] for a [ put the average rate in your country].
-  Project start after the DjangoCon Europe
+  Project start after the DjangoCon Europe.
 
 **Endfor**
+
+##The long story
 
 - Monday,  16th july **2007**: First work day of my life
 - Wednesday,  10th july **2008**: Year 1. Bored
@@ -31,7 +33,7 @@ End of the money driven experience : September 2011
 
 ##From passion to Passion
 
-Being unable to find any python jobs in Luxembourg, I started to look after relocation. After having performed a huge market study on where to find python/django devs around the world (Thanks to Djangogigs), my girlfriend and I decided to move in the UK *.
+Being unable to find any python jobs in Luxembourg, I started to look after relocation. After having performed a huge market study on where to find python/django devs around the world (Thanks to Djangogigs), my girlfriend and I decided to move in the UK \*.
 
 I have been welcomed by TangentLabs, where I grew from passionate programmer to professional programmer. You know what, I do like it. Happy to have done the right choice.
 
@@ -49,4 +51,4 @@ Like a initiatory travel, meeting plenty of new peoples, sharing knowledge, lear
 Are you next ?
 
 
-* UK was the second choice after the US, for sure, but it really seems than US government doesn’t want us. Next step maybe.
+\* UK was the second choice after the US, for sure, but it really seems than US government doesn’t want us. Next step maybe.
