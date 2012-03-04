@@ -41,7 +41,7 @@ My concern was still quality and I enjoyed the fact all my team embraced the com
 
 I did learn a lot from all my colleagues but I now reached the zone of comfort. Time to live again.
 
-##Are you the next? 
+##Are you next? 
 
 The project took a crazy shape. We like to travel and I like python/django. Let’s do both!
 Like a initiatory travel, meeting plenty of new peoples, sharing knowledge, learning new tools, new techs. Only two rules: using python and moving to a different country each time. Doing that again, and again. Every 3 months. For 24 months ie:
